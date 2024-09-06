@@ -24,6 +24,7 @@
 <br/>
 <img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black">
+ <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=cursor&logoColor=white">
 </div>
 
 <br/>
