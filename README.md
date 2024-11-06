@@ -29,7 +29,7 @@
 <br/>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeyun01&layout=compact&theme=graywhite" height="180px" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeyun01&layout=compact&theme=graywhite" height="180px" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=taeyun01&show_icons=true&theme=graywhite" height="180px" />
 </div>
 
